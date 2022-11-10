@@ -45,7 +45,7 @@
     "prettier": "^1.19.1",
     "rc-tooltip": "^4.0.3",
     "react-hot-loader": "^4.12.20",
-    "replace": "^1.2.0",
+    "replace": "^1.2.2",
     "style-loader": "^1.1.3",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
